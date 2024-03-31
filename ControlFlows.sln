@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search_List_Contains_IndexO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "From_Krone_To_Euro", "From_Krone_To_Euro\From_Krone_To_Euro.csproj", "{87DFBA70-2622-45E5-A5EF-4B9ECD8F7B64}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "From_Kg_To_Pounds", "From_Kg_To_Pounds\From_Kg_To_Pounds.csproj", "{BB6618EB-4876-4431-8A4F-EE40338CDE10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{87DFBA70-2622-45E5-A5EF-4B9ECD8F7B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87DFBA70-2622-45E5-A5EF-4B9ECD8F7B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87DFBA70-2622-45E5-A5EF-4B9ECD8F7B64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB6618EB-4876-4431-8A4F-EE40338CDE10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB6618EB-4876-4431-8A4F-EE40338CDE10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB6618EB-4876-4431-8A4F-EE40338CDE10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB6618EB-4876-4431-8A4F-EE40338CDE10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -181,6 +187,7 @@ Global
 		{85443E86-121A-4453-A269-B2BF50CCA499} = {00147E1A-93D6-493F-8B2C-7569C8DF8889}
 		{1821AB1A-1D08-48BC-A576-E202244C6F0E} = {FAF919FC-0F84-45E6-968D-0C4C877D7A0D}
 		{87DFBA70-2622-45E5-A5EF-4B9ECD8F7B64} = {FAF919FC-0F84-45E6-968D-0C4C877D7A0D}
+		{BB6618EB-4876-4431-8A4F-EE40338CDE10} = {FAF919FC-0F84-45E6-968D-0C4C877D7A0D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E6DAAA40-9319-47FA-81C3-EC650C78AB38}
